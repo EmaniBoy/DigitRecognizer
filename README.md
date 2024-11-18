@@ -22,11 +22,14 @@ Built with React, Vite, JavaScript, Python, TensorFlow, and a backend API for mo
   - Frontend Load Time: <1s
 
  3, Model Architecture:
+ 
   Input Layer: 784 neurons (28x28 flattened)
+  
   Hidden Layers:
   - Dense Layer 1: 128 neurons (ReLU)
   - Dense Layer 2: 64 neurons (Sigmoid)
   - Dense Layer 3: 32 neurons (Sigmoid)
+    
   Output Layer: 10 neurons (Softmax)
 
 <img width="1440" alt="DEMOpic1" src="https://github.com/user-attachments/assets/19e00543-1b10-44e0-8dac-4dfbda2d3abc">
